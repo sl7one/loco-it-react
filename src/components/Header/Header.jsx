@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router-dom';
 import './header.scss';
 import logo from './img/logo.svg';
 import find from './img/find.svg';
@@ -8,13 +9,13 @@ export const Header = () => {
     <header className="header">
       <div>
         <div className="header__wrapper">
-          <div className="logo">
+          <NavLink to="/" className="logo">
             <div className="logo__icon">
               <img src={logo} alt="logo" width="50" />
             </div>
             <span className="logo__loco">Loco</span>
             <span className="logo__it">IT</span>
-          </div>
+          </NavLink>
           <nav className="nav">
             <ul className="nav__list">
               <li className="nav__item">
