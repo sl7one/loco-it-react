@@ -1,5 +1,5 @@
+import { Link } from 'react-scroll';
 import './courses.scss';
-// import './smoothScroll';
 import symb from './images/symbol.png';
 import img1 from './images/0019.png';
 import chevron from './images/chevron-down-solid.svg';
@@ -18,18 +18,26 @@ export const Courses = () => {
               Обери свій курс та почни негайно навчання від LocoIT <br />з
               ментором.
               <span className="courses__hero-text-span">
-                {' '}
                 Вчись та отримуй фідбек!
               </span>
             </p>
-            <a className="courses__hero-link" href="#corsestitle">
-              <img src={chevron} alt="chevron" />
-              переконатись
-            </a>
+            {
+              <Link
+                className="courses__hero-link"
+                to="title"
+                spy={true}
+                smooth={true}
+                offset={-20}
+                duration={750}
+              >
+                <img src={chevron} alt="chevron" />
+                переконатись
+              </Link>
+            }
           </div>
         </div>
         <div className="courses__registration">
-          <h3 className="courses__registration-title" id="corsestitle">
+          <h3 className="courses__registration-title" id="title">
             НАШІ КУРСИ
           </h3>
           <ul className="courses__card-list">
