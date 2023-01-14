@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/loco-it-react/static/css/main.8e028d08.css",
-    "main.js": "/loco-it-react/static/js/main.c4149866.js",
+    "main.js": "/loco-it-react/static/js/main.367b8aef.js",
     "static/media/0003.svg": "/loco-it-react/static/media/0003.0cec2e868ad32c7b41facac4669f4833.svg",
     "static/media/0011.svg": "/loco-it-react/static/media/0011.6777885f1c9a6721ffd328f8b5e97efe.svg",
     "static/media/0018.svg": "/loco-it-react/static/media/0018.877263e33429bcea407ea6440e0fed09.svg",
@@ -27,10 +27,10 @@
     "static/media/phone.svg": "/loco-it-react/static/media/phone.39a5f09dc59dd95d9f19ccbef6c4ec59.svg",
     "static/media/mark.svg": "/loco-it-react/static/media/mark.6ebb65bb1187af2fd8cae4adf4eff3d7.svg",
     "main.8e028d08.css.map": "/loco-it-react/static/css/main.8e028d08.css.map",
-    "main.c4149866.js.map": "/loco-it-react/static/js/main.c4149866.js.map"
+    "main.367b8aef.js.map": "/loco-it-react/static/js/main.367b8aef.js.map"
   },
   "entrypoints": [
     "static/css/main.8e028d08.css",
-    "static/js/main.c4149866.js"
+    "static/js/main.367b8aef.js"
   ]
 }
