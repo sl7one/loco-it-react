@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/loco-it-react/static/css/main.cd4f1153.css",
-    "main.js": "/loco-it-react/static/js/main.e3c6ea54.js",
+    "main.css": "/loco-it-react/static/css/main.106f74da.css",
+    "main.js": "/loco-it-react/static/js/main.c277efd4.js",
     "static/media/0003.svg": "/loco-it-react/static/media/0003.0cec2e868ad32c7b41facac4669f4833.svg",
     "static/media/0011.svg": "/loco-it-react/static/media/0011.6777885f1c9a6721ffd328f8b5e97efe.svg",
     "static/media/0018.svg": "/loco-it-react/static/media/0018.877263e33429bcea407ea6440e0fed09.svg",
@@ -14,6 +14,8 @@
     "static/media/Magnifiying Glass.svg": "/loco-it-react/static/media/Magnifiying Glass.b78a4f9d8f832be8861d0aea9e0f0230.svg",
     "static/media/Hat.svg": "/loco-it-react/static/media/Hat.e101926e2fa7b94743d4f190c92dac54.svg",
     "static/media/blur.png": "/loco-it-react/static/media/blur.8cdd4c084df14579f274.png",
+    "static/media/Inter.ttf": "/loco-it-react/static/media/Inter.aadb65ac45347ff46699.ttf",
+    "static/media/Montserrat.ttf": "/loco-it-react/static/media/Montserrat.3faa3eef13649db02044.ttf",
     "static/media/0019.png": "/loco-it-react/static/media/0019.11c847b7f7e5ca8babc3.png",
     "static/media/human_second 1.svg": "/loco-it-react/static/media/human_second 1.4be4d34af972e97c9f1113bef49b82b3.svg",
     "static/media/human_first 1.svg": "/loco-it-react/static/media/human_first 1.d498a92889396575d5e45044807aef9f.svg",
@@ -24,11 +26,11 @@
     "static/media/chevron-down-solid.svg": "/loco-it-react/static/media/chevron-down-solid.9500fbf3fb64e99a8786fdfbcc0e4be8.svg",
     "static/media/phone.svg": "/loco-it-react/static/media/phone.39a5f09dc59dd95d9f19ccbef6c4ec59.svg",
     "static/media/mark.svg": "/loco-it-react/static/media/mark.6ebb65bb1187af2fd8cae4adf4eff3d7.svg",
-    "main.cd4f1153.css.map": "/loco-it-react/static/css/main.cd4f1153.css.map",
-    "main.e3c6ea54.js.map": "/loco-it-react/static/js/main.e3c6ea54.js.map"
+    "main.106f74da.css.map": "/loco-it-react/static/css/main.106f74da.css.map",
+    "main.c277efd4.js.map": "/loco-it-react/static/js/main.c277efd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd4f1153.css",
-    "static/js/main.e3c6ea54.js"
+    "static/css/main.106f74da.css",
+    "static/js/main.c277efd4.js"
   ]
 }
