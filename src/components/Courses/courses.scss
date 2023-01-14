@@ -1,0 +1,143 @@
+.courses {
+  position: relative;
+
+  &__hero {
+    display: flex;
+  }
+  &__hero-meta {
+    margin-left: 120px;
+    margin-top: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  &__hero-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: calc(44 / 36);
+    text-transform: uppercase;
+
+    color: #535353;
+  }
+
+  &__hero-text {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: calc(21 / 16);
+    color: #535353;
+  }
+
+  &__hero-text-span {
+    font-weight: 700;
+  }
+  &__hero-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 20px;
+    gap: 10px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: calc(17 / 14);
+    text-transform: uppercase;
+    color: #ffffff;
+    background: linear-gradient(180deg, #b670ff 0%, #9129fe 100%), #521394;
+    border-radius: 100px;
+    width: 213px;
+  }
+  &__symbol {
+    position: absolute;
+    top: 10%;
+    right: 23%;
+  }
+
+  &__card-list {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 65px;
+    column-gap: 40px;
+    margin-top: 70px;
+  }
+  &__registration-title {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: calc(32 / 25);
+    text-transform: uppercase;
+    color: #535353;
+    text-align: center;
+  }
+
+  &__card {
+    background: #ffffff;
+    border-radius: 20px;
+    overflow: hidden;
+    width: 270px;
+  }
+  &__card-header {
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(180deg, #b670ff 0%, #9129fe 100%);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: calc(17 / 14);
+    color: #ffffff;
+    padding-top: 14px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 14px;
+  }
+  &__card-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 23px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  &__card-img {
+    margin-top: 30px;
+  }
+  &__card-title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: calc(24 / 16);
+    text-transform: uppercase;
+    color: #535353;
+    margin-top: 20px;
+  }
+  &__card-text {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: calc(19 / 15);
+    color: rgba(83, 83, 83, 0.5);
+  }
+  &__card-details {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: calc(19 / 15);
+
+    text-decoration-line: underline;
+    background: linear-gradient(180deg, #b670ff 0%, #9129fe 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+    margin-top: 23px;
+  }
+  &__card-registration-btn {
+    background: linear-gradient(180deg, #b670ff 0%, #9129fe 100%);
+    border-radius: 20px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: calc(17 / 14);
+
+    text-transform: capitalize;
+    color: #ffffff;
+    margin-top: 23px;
+    padding: 15px 70px;
+  }
+}
