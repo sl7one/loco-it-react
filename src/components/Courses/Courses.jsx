@@ -1,5 +1,5 @@
 import './courses.scss';
-import './smoothScroll';
+// import './smoothScroll';
 import symb from './images/symbol.png';
 import img1 from './images/0019.png';
 import chevron from './images/chevron-down-solid.svg';
