@@ -1,6 +1,6 @@
 import './choices.scss';
-import hum1 from './images/human_first 1.svg';
-import hum2 from './images/human_second 1.svg';
+import hum1 from './images/human_first 1.png';
+import hum2 from './images/human_second 1.png';
 
 export const Choices = () => {
   return (

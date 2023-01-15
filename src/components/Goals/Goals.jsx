@@ -1,6 +1,6 @@
 import './goals.scss';
-import img1 from './images/0010.svg';
-import img2 from './images/0011.svg';
+import img1 from './images/0010.png';
+import img2 from './images/0011.png';
 
 export const Goals = () => {
   return (

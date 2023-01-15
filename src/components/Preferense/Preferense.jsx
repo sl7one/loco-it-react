@@ -1,7 +1,7 @@
 import './preferense.scss';
 import blur from './images/blur.png';
 import pc from './images/pc.png';
-import mark from './images/mark.svg';
+import mark from './images/mark.png';
 
 export const Preferense = () => {
   return (

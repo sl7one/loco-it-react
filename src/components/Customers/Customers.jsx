@@ -1,8 +1,8 @@
 import './customers.scss';
-import rocket from './images/Roket 1.svg';
-import hat from './images/Hat.svg';
-import tv from './images/TV.svg';
-import glass from './images/Magnifiying Glass.svg';
+import rocket from './images/Roket 1.png';
+import hat from './images/Hat.png';
+import tv from './images/TV.png';
+import glass from './images/Magnifiying Glass.png';
 
 export const Customers = () => {
   return (

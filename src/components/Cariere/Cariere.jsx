@@ -1,8 +1,8 @@
 import './cariere.scss';
-import img1 from './images/0012.svg';
-import img2 from './images/0002.svg';
-import img3 from './images/0003.svg';
-import img4 from './images/0018.svg';
+import img1 from './images/0012.png';
+import img2 from './images/0002.png';
+import img3 from './images/0003.png';
+import img4 from './images/0018.png';
 
 export const Cariere = () => {
   return (

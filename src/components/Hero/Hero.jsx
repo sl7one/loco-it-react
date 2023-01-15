@@ -1,6 +1,6 @@
 import './hero.scss';
 import blur from './images/blur.png';
-import planet from './images/Vectary texture.svg';
+import planet from './images/Vectary texture.png';
 
 export const Hero = () => {
   return (
