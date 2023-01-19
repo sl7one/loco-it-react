@@ -40,7 +40,12 @@ export const Customers = () => {
             </p>
           </li>
           <li className="customers__item">
-            <img className="customers__article-icon" src={glass} alt="glass" />
+            <img
+              className="customers__article-icon"
+              src={glass}
+              alt="glass"
+              width={226}
+            />
             <h3 className="customers__article-title">
               КОРпоравтиним замовникам
             </h3>

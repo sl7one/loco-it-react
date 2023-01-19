@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { createPortal } from 'react-dom';
+import { Link } from 'react-router-dom';
 import './dropDownMenu.scss';
 
 export const DropDownMenu = ({ onClickBackdrop }) => {
@@ -28,6 +29,9 @@ export const DropDownMenu = ({ onClickBackdrop }) => {
         console.log('object');
     }
   };
+  const onClickLink = () => {
+    onClickBackdrop();
+  };
   const closeBackdrop = event => {
     if (event.target.id === 'backdrop') onClickBackdrop();
   };
@@ -51,14 +55,16 @@ export const DropDownMenu = ({ onClickBackdrop }) => {
         {course === 'design' && (
           <ul className="ddm__cont-list">
             <li className="ddm__cont-item">
-              <p className="ddm__cont-item-wrap">
-                <span>WEB & UX/UI Design</span>
-                <span>Старт курсу:</span>
-              </p>
-              <p className="ddm__cont-item-wrap">
-                <span>Figma + Prototyping</span>
-                <span>Скоро анонс</span>
-              </p>
+              <Link to="/design" onClick={onClickLink}>
+                <p className="ddm__cont-item-wrap">
+                  <span>WEB & UX/UI Design</span>
+                  <span>Старт курсу:</span>
+                </p>
+                <p className="ddm__cont-item-wrap">
+                  <span>Figma + Prototyping</span>
+                  <span>Скоро анонс</span>
+                </p>
+              </Link>
             </li>
             <li className="ddm__cont-item">
               <p className="ddm__cont-item-wrap">
