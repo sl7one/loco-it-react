@@ -61,7 +61,12 @@ export const Header = () => {
                 ЗАПИСАТИСЯ
               </button>
               <button className="nav-buttons__btn styled" type="button">
-                <img className="nav-buttons__icon" src={phone} alt="phone" />
+                <img
+                  className="nav-buttons__icon"
+                  src={phone}
+                  alt="phone"
+                  width="15"
+                />
                 ПЕРЕДЗВОНІТЬ МЕНІ
               </button>
             </div>

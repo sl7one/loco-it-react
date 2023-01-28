@@ -40,6 +40,8 @@
     line-height: calc(17 / 14);
     padding: 18px 20px;
     cursor: pointer;
+    display: flex;
+    align-items: center;
 
     // border: solid 3px #b670ff;
     background-color: #b670ff;
@@ -49,6 +51,11 @@
     transition-property: transform, background-color, color, box-shadow;
     margin-left: 15px;
   }
+  &__icon {
+    margin-right: 10px;
+    width: 15px;
+  }
   &__img {
+    width: 395px;
   }
 }

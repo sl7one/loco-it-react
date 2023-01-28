@@ -35,7 +35,7 @@ export const Enroll = () => {
             </button>
           </div>
         </div>
-        <img src={img} alt="pic" />
+        <img className="enroll__img" src={img} alt="pic" />
       </div>
     </section>
   );

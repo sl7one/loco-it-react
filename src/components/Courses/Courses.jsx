@@ -30,7 +30,7 @@ export const Courses = () => {
                 offset={-20}
                 duration={750}
               >
-                <img src={chevron} alt="chevron" />
+                <img className='courses__hero-link-icon' src={chevron} alt="chevron" />
                 переконатись
               </Link>
             }

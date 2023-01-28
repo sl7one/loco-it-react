@@ -4,6 +4,9 @@
   &__hero {
     display: flex;
   }
+  &__hero-img {
+    width: 440px;
+  }
   &__hero-meta {
     margin-left: 120px;
     margin-top: 300px;
@@ -30,6 +33,9 @@
   &__hero-text-span {
     font-weight: 700;
   }
+  &__hero-link-icon {
+    width: 13px;
+  }
   &__hero-link {
     display: flex;
     flex-direction: row;
@@ -47,9 +53,11 @@
     width: 213px;
   }
   &__symbol {
+    height: 745px;
+    width: 160px;
     position: absolute;
     z-index: -1;
-    top: 10%;
+    top: 6%;
     right: 23%;
   }
 
@@ -97,6 +105,7 @@
     padding-right: 20px;
   }
   &__card-img {
+    width: 85px;
     margin-top: 30px;
   }
   &__card-title {

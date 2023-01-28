@@ -22,6 +22,7 @@ export const Hero = () => {
         <div className="img-wrapper">
           <div className="img-obj">
             <img className="img-obj__blur" src={blur} alt="blur" width="600" />
+
             <img
               className="img-obj__img"
               src={planet}

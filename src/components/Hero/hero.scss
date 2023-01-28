@@ -77,9 +77,9 @@
 }
 
 .img-obj {
-  position: absolute;
-  right: 8%;
-  top: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   animation-name: planet;
   animation-duration: 10s;
@@ -87,10 +87,16 @@
 
   &__blur {
     position: absolute;
+    z-index: -1;
   }
 }
 
 .img-wrapper {
+  width: 700px;
+  position: absolute;
+  right: 8%;
+  top: 5%;
+  z-index: -1;
   animation-name: fadein;
   animation-duration: 3s;
 }

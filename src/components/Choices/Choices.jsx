@@ -5,10 +5,9 @@ import hum2 from './images/human_second 1.png';
 export const Choices = () => {
   return (
     <section className="choices box-shadow">
-      <div className="choices__img-wrapper">
-        <img className="choices__img-left" src={hum1} alt="human-left" />
-        <img className="choices__img-right" src={hum2} alt="human-right" />
-      </div>
+      <img className="choices__img-left" src={hum1} alt="human-left" />
+      <img className="choices__img-right" src={hum2} alt="human-right" />
+
       <div className="container sectoin">
         <h2 className="choices__title">
           ВАрто обрати <span className="choices__span">LOCO</span>, бо
