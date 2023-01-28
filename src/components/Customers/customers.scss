@@ -1,3 +1,5 @@
+$var-width: calc((100% - 180px) / 4);
+
 .white {
   background: white;
 }
@@ -13,7 +15,7 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    width: 275px;
+    width: $var-width;
   }
 
   &__article-icon {

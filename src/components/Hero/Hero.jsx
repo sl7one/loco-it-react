@@ -5,7 +5,7 @@ import planet from './images/Vectary texture.png';
 export const Hero = () => {
   return (
     <section className="hero box-shadow">
-      <div className="section container">
+      <div className="container section">
         <h1 className="hero__title">
           Loco<span className="hero__title-span">IT</span>
         </h1>

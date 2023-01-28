@@ -18,7 +18,7 @@ export const Header = () => {
   return (
     <>
       <header className="header">
-        <div>
+        <div className="container">
           <div className="header__wrapper">
             <Link to="/" className="logo">
               <div className="logo__icon">
