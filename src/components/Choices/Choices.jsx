@@ -8,9 +8,9 @@ export const Choices = () => {
       <img className="choices__img-left" src={hum1} alt="human-left" />
       <img className="choices__img-right" src={hum2} alt="human-right" />
 
-      <div className="container sectoin">
+      <div className="container section">
         <h2 className="choices__title">
-          ВАрто обрати <span className="choices__span">LOCO</span>, бо
+          ВАрто обрати&nbsp;<span className="choices__span">LOCO</span>, бо
         </h2>
         <ul className="choices__list">
           <li className="choices__item">

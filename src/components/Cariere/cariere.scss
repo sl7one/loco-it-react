@@ -6,6 +6,10 @@
   position: relative;
   overflow: hidden;
 
+  .section {
+    flex-direction: column;
+  }
+
   &__list {
     display: flex;
     justify-content: space-between;
@@ -65,6 +69,10 @@
   line-height: calc(183 / 150);
 
   color: #b670ff;
+
+  span {
+    display: inline;
+  }
 
   animation-name: run-text-left;
   animation-duration: 35s;

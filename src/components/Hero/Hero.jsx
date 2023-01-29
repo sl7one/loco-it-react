@@ -11,8 +11,8 @@ export const Hero = () => {
         </h1>
 
         <p className="hero__descr">
-          курси для того, щоб змінити <br />
-          твоє <span className="hero__descr-span">життя</span>
+          курси для того, щоб змінити твоє{' '}
+          <span className="hero__descr-span">життя</span>
         </p>
 
         <button className="hero__button" type="button">

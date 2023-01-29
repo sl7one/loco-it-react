@@ -100,13 +100,16 @@
 
   color: #b670ff;
 
+  span {
+    display: inline;
+  }
+
   animation-name: run-text;
   animation-duration: 35s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 
   &__color {
-    // text-fill-color: transparent;
     color: #535353;
   }
 }
