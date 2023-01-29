@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/loco-it-react/static/css/main.265263d6.css",
-    "main.js": "/loco-it-react/static/js/main.293df8a3.js",
+    "main.css": "/loco-it-react/static/css/main.975d99d2.css",
+    "main.js": "/loco-it-react/static/js/main.5b0a8cb2.js",
     "static/media/blur.png": "/loco-it-react/static/media/blur.8cdd4c084df14579f274.png",
     "static/media/Inter.ttf": "/loco-it-react/static/media/Inter.aadb65ac45347ff46699.ttf",
     "static/media/Montserrat.ttf": "/loco-it-react/static/media/Montserrat.3faa3eef13649db02044.ttf",
@@ -16,19 +16,33 @@
     "static/media/0018.png": "/loco-it-react/static/media/0018.b3740a044ba3ff9a3ab8.png",
     "static/media/0003.png": "/loco-it-react/static/media/0003.71d91980898909378327.png",
     "static/media/0012.png": "/loco-it-react/static/media/0012.db9dcba9816994d30de0.png",
+    "static/media/person2.png": "/loco-it-react/static/media/person2.0127f07054f41e3c3f81.png",
     "static/media/Roket 1.png": "/loco-it-react/static/media/Roket 1.2ec5bfd88a277bb5545d.png",
+    "static/media/person3.png": "/loco-it-react/static/media/person3.d2c5111f1a47c7b6f823.png",
+    "static/media/person1.png": "/loco-it-react/static/media/person1.2ff4754396f895e07b93.png",
+    "static/media/person5.png": "/loco-it-react/static/media/person5.94027424178e9167364f.png",
+    "static/media/person4.png": "/loco-it-react/static/media/person4.9a5f3d8b8f75b170d49e.png",
     "static/media/TV.png": "/loco-it-react/static/media/TV.4a1058df35bd3f3524a0.png",
     "static/media/Hat.png": "/loco-it-react/static/media/Hat.b1fb8895e1ed8ec9ff11.png",
+    "static/media/ico3.svg": "/loco-it-react/static/media/ico3.792e834687753e00030f4f631381de58.svg",
     "static/media/logo.svg": "/loco-it-react/static/media/logo.2bf2f2701ea743b794be3f9733231822.svg",
+    "static/media/ico4.svg": "/loco-it-react/static/media/ico4.4107418c45d0d570fb1fdb9b15d716c0.svg",
+    "static/media/ico6.svg": "/loco-it-react/static/media/ico6.e393f1d80e7af24ff221d2f57b4e7d58.svg",
+    "static/media/hat.svg": "/loco-it-react/static/media/hat.5128ea3bf23fff9711c0390d6d3189c5.svg",
+    "static/media/ico5.svg": "/loco-it-react/static/media/ico5.d0143b4e80f8134d44a4bfdb5789e447.svg",
+    "static/media/ico2.svg": "/loco-it-react/static/media/ico2.34c485eb313ecbd859ef2453a7ae3789.svg",
     "index.html": "/loco-it-react/index.html",
     "static/media/find.svg": "/loco-it-react/static/media/find.36938546ab818e96de0f9a365bdf38d6.svg",
+    "static/media/wallet.svg": "/loco-it-react/static/media/wallet.714a96ddcc6e73f7dd974b07862a249b.svg",
+    "static/media/ico1.svg": "/loco-it-react/static/media/ico1.3d223cdb7513e24f7bd58a34c9e32da0.svg",
     "static/media/chevron-down-solid.svg": "/loco-it-react/static/media/chevron-down-solid.9500fbf3fb64e99a8786fdfbcc0e4be8.svg",
+    "static/media/clock.svg": "/loco-it-react/static/media/clock.5bed794a59b5c31bcaa202ed999ce78b.svg",
     "static/media/phone.svg": "/loco-it-react/static/media/phone.39a5f09dc59dd95d9f19ccbef6c4ec59.svg",
-    "main.265263d6.css.map": "/loco-it-react/static/css/main.265263d6.css.map",
-    "main.293df8a3.js.map": "/loco-it-react/static/js/main.293df8a3.js.map"
+    "main.975d99d2.css.map": "/loco-it-react/static/css/main.975d99d2.css.map",
+    "main.5b0a8cb2.js.map": "/loco-it-react/static/js/main.5b0a8cb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.265263d6.css",
-    "static/js/main.293df8a3.js"
+    "static/css/main.975d99d2.css",
+    "static/js/main.5b0a8cb2.js"
   ]
 }
