@@ -44,6 +44,9 @@ $var-width: calc((100% - 180px) / 4);
     &:hover {
       background-image: linear-gradient(180deg, #c299ff 0%, #a47be1 100%);
     }
+    &:hover .forwho__img {
+      opacity: 1;
+    }
 
     &:hover .forwho__span {
       color: white;
@@ -91,11 +94,12 @@ $var-width: calc((100% - 180px) / 4);
     right: 0%;
     top: 50%;
     transform: translate(50%, -50%);
-    // transform: translateY(-50%);
-    // transform: translateX(50%);
     position: absolute;
     width: 160px;
     z-index: 1;
+    opacity: 0;
+
+    transition: opacity 350ms ease-in-out;
   }
   &__q {
     position: absolute;

@@ -1,10 +1,16 @@
+import { useLocation } from 'react-router-dom';
 import './goals.scss';
 import img1 from './images/0010.png';
 import img2 from './images/0011.png';
 
 export const Goals = () => {
+  const location = useLocation();
   return (
-    <section className="goals white">
+    <section
+      className={`goals ${
+        location.pathname === '/design' ? 'box-shadow' : 'white'
+      }`}
+    >
       <ul className="run-text">
         <li>
           Loco<span className="run-text__color">IT</span>
