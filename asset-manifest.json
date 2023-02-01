@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/loco-it-react/static/css/main.975d99d2.css",
-    "main.js": "/loco-it-react/static/js/main.5b0a8cb2.js",
+    "main.css": "/loco-it-react/static/css/main.543b7ec4.css",
+    "main.js": "/loco-it-react/static/js/main.2201548f.js",
     "static/media/blur.png": "/loco-it-react/static/media/blur.8cdd4c084df14579f274.png",
     "static/media/Inter.ttf": "/loco-it-react/static/media/Inter.aadb65ac45347ff46699.ttf",
     "static/media/Montserrat.ttf": "/loco-it-react/static/media/Montserrat.3faa3eef13649db02044.ttf",
@@ -26,11 +26,17 @@
     "static/media/Hat.png": "/loco-it-react/static/media/Hat.b1fb8895e1ed8ec9ff11.png",
     "static/media/ico3.svg": "/loco-it-react/static/media/ico3.792e834687753e00030f4f631381de58.svg",
     "static/media/logo.svg": "/loco-it-react/static/media/logo.2bf2f2701ea743b794be3f9733231822.svg",
+    "static/media/icons.svg": "/loco-it-react/static/media/icons.1969d35add4b62716894870e09ad4291.svg",
+    "static/media/icons2.svg": "/loco-it-react/static/media/icons2.7887285518e06e9d132fec3b36fc1741.svg",
+    "static/media/icons3.svg": "/loco-it-react/static/media/icons3.74dea12737fdb2c0adf794a04e10d3d7.svg",
     "static/media/ico4.svg": "/loco-it-react/static/media/ico4.4107418c45d0d570fb1fdb9b15d716c0.svg",
     "static/media/ico6.svg": "/loco-it-react/static/media/ico6.e393f1d80e7af24ff221d2f57b4e7d58.svg",
     "static/media/hat.svg": "/loco-it-react/static/media/hat.5128ea3bf23fff9711c0390d6d3189c5.svg",
     "static/media/ico5.svg": "/loco-it-react/static/media/ico5.d0143b4e80f8134d44a4bfdb5789e447.svg",
+    "static/media/icons4.svg": "/loco-it-react/static/media/icons4.8768096a94ab180273245c960423e198.svg",
     "static/media/ico2.svg": "/loco-it-react/static/media/ico2.34c485eb313ecbd859ef2453a7ae3789.svg",
+    "static/media/icons1.svg": "/loco-it-react/static/media/icons1.5ab836a6593e18ab4ad7475451c19f5f.svg",
+    "static/media/icons5.svg": "/loco-it-react/static/media/icons5.d57c2738439b806bb74bd5dbed96b6b4.svg",
     "index.html": "/loco-it-react/index.html",
     "static/media/find.svg": "/loco-it-react/static/media/find.36938546ab818e96de0f9a365bdf38d6.svg",
     "static/media/wallet.svg": "/loco-it-react/static/media/wallet.714a96ddcc6e73f7dd974b07862a249b.svg",
@@ -38,11 +44,11 @@
     "static/media/chevron-down-solid.svg": "/loco-it-react/static/media/chevron-down-solid.9500fbf3fb64e99a8786fdfbcc0e4be8.svg",
     "static/media/clock.svg": "/loco-it-react/static/media/clock.5bed794a59b5c31bcaa202ed999ce78b.svg",
     "static/media/phone.svg": "/loco-it-react/static/media/phone.39a5f09dc59dd95d9f19ccbef6c4ec59.svg",
-    "main.975d99d2.css.map": "/loco-it-react/static/css/main.975d99d2.css.map",
-    "main.5b0a8cb2.js.map": "/loco-it-react/static/js/main.5b0a8cb2.js.map"
+    "main.543b7ec4.css.map": "/loco-it-react/static/css/main.543b7ec4.css.map",
+    "main.2201548f.js.map": "/loco-it-react/static/js/main.2201548f.js.map"
   },
   "entrypoints": [
-    "static/css/main.975d99d2.css",
-    "static/js/main.5b0a8cb2.js"
+    "static/css/main.543b7ec4.css",
+    "static/js/main.2201548f.js"
   ]
 }
