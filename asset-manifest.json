@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/loco-it-react/static/css/main.543b7ec4.css",
+    "main.css": "/loco-it-react/static/css/main.4d422616.css",
     "main.js": "/loco-it-react/static/js/main.2201548f.js",
     "static/media/blur.png": "/loco-it-react/static/media/blur.8cdd4c084df14579f274.png",
     "static/media/Inter.ttf": "/loco-it-react/static/media/Inter.aadb65ac45347ff46699.ttf",
@@ -44,11 +44,11 @@
     "static/media/chevron-down-solid.svg": "/loco-it-react/static/media/chevron-down-solid.9500fbf3fb64e99a8786fdfbcc0e4be8.svg",
     "static/media/clock.svg": "/loco-it-react/static/media/clock.5bed794a59b5c31bcaa202ed999ce78b.svg",
     "static/media/phone.svg": "/loco-it-react/static/media/phone.39a5f09dc59dd95d9f19ccbef6c4ec59.svg",
-    "main.543b7ec4.css.map": "/loco-it-react/static/css/main.543b7ec4.css.map",
+    "main.4d422616.css.map": "/loco-it-react/static/css/main.4d422616.css.map",
     "main.2201548f.js.map": "/loco-it-react/static/js/main.2201548f.js.map"
   },
   "entrypoints": [
-    "static/css/main.543b7ec4.css",
+    "static/css/main.4d422616.css",
     "static/js/main.2201548f.js"
   ]
 }
